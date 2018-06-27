@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "9f3b9fd3f6f08a7ff9bd7a5bd3b9bffb"
+build_time: [1527822001, 855091000]
+inputs:
+  "/Users/nguyenductai/Desktop/test/testCustomVideo/customVideo/ViewController.swift": [1527224302, 0]
+  "/Users/nguyenductai/Desktop/test/testCustomVideo/customVideo/VideoLaucher.swift": [1527224505, 0]
+  "/Users/nguyenductai/Desktop/test/testCustomVideo/customVideo/AppDelegate.swift": [1527064255, 0]
